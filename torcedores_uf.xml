@@ -1,0 +1,101 @@
+<data>
+  <row id="Row1">
+    <UD>Bahia</UD>
+    <Ceara>1000</Ceara>
+    <Flamengo>1200</Flamengo>
+    <Fortaleza>950</Fortaleza>
+    <Populacao>6000000</Populacao>
+    <Pib_percapita>20000</Pib_percapita>
+    <media_torcedores>1050.0</media_torcedores>
+    <soma_torcedores>3150.0</soma_torcedores>
+    <torcedores_1M_hab>525.0</torcedores_1M_hab>
+  </row>
+  <row id="Row7">
+    <UD>Rio Grande do Norte</UD>
+    <Ceara>10000</Ceara>
+    <Flamengo>2000</Flamengo>
+    <Fortaleza>3500</Fortaleza>
+    <Populacao>5000000</Populacao>
+    <Pib_percapita>65000</Pib_percapita>
+    <media_torcedores>5166.66666666666</media_torcedores>
+    <soma_torcedores>15500.0</soma_torcedores>
+    <torcedores_1M_hab>3100.0</torcedores_1M_hab>
+  </row>
+  <row id="Row0">
+    <UD>Alagoas</UD>
+    <Ceara>12000</Ceara>
+    <Flamengo>800</Flamengo>
+    <Fortaleza>500</Fortaleza>
+    <Populacao>3500000</Populacao>
+    <Pib_percapita>80000</Pib_percapita>
+    <media_torcedores>4433.33333333333</media_torcedores>
+    <soma_torcedores>13300.0</soma_torcedores>
+    <torcedores_1M_hab>3800.0</torcedores_1M_hab>
+  </row>
+  <row id="Row3">
+    <UD>Maranhão</UD>
+    <Ceara>7000</Ceara>
+    <Flamengo>1000</Flamengo>
+    <Fortaleza>1000</Fortaleza>
+    <Populacao>2000000</Populacao>
+    <Pib_percapita>50000</Pib_percapita>
+    <media_torcedores>3000.0</media_torcedores>
+    <soma_torcedores>9000.0</soma_torcedores>
+    <torcedores_1M_hab>4500.0</torcedores_1M_hab>
+  </row>
+  <row id="Row8">
+    <UD>Sergipe</UD>
+    <Ceara>8000</Ceara>
+    <Flamengo>950</Flamengo>
+    <Fortaleza>0</Fortaleza>
+    <Populacao>1800000</Populacao>
+    <Pib_percapita>85000</Pib_percapita>
+    <media_torcedores>29833.33333333333</media_torcedores>
+    <soma_torcedores>8950.0</soma_torcedores>
+    <torcedores_1M_hab>4972.22222222222</torcedores_1M_hab>
+  </row>
+  <row id="Row4">
+    <UD>Paraiba</UD>
+    <Ceara>9000</Ceara>
+    <Flamengo>2500</Flamengo>
+    <Fortaleza>1200</Fortaleza>
+    <Populacao>2500000</Populacao>
+    <Pib_percapita>70000</Pib_percapita>
+    <media_torcedores>4233.33333333333</media_torcedores>
+    <soma_torcedores>12700.0</soma_torcedores>
+    <torcedores_1M_hab>5080.0</torcedores_1M_hab>
+  </row>
+  <row id="Row2">
+    <UD>Ceará</UD>
+    <Ceara>50000</Ceara>
+    <Flamengo>1000</Flamengo>
+    <Fortaleza>6000</Fortaleza>
+    <Populacao>9000000</Populacao>
+    <Pib_percapita>60000</Pib_percapita>
+    <media_torcedores>19000.0</media_torcedores>
+    <soma_torcedores>57000.0</soma_torcedores>
+    <torcedores_1M_hab>6333.33333333333</torcedores_1M_hab>
+  </row>
+  <row id="Row5">
+    <UD>Pernambuco</UD>
+    <Ceara>15000</Ceara>
+    <Flamengo>1500</Flamengo>
+    <Fortaleza>3200</Fortaleza>
+    <Populacao>2800000</Populacao>
+    <Pib_percapita>75000</Pib_percapita>
+    <media_torcedores>6566.66666666666</media_torcedores>
+    <soma_torcedores>19700.0</soma_torcedores>
+    <torcedores_1M_hab>7035.71428571428</torcedores_1M_hab>
+  </row>
+  <row id="Row6">
+    <UD>Piauí</UD>
+    <Ceara>8000</Ceara>
+    <Flamengo>1500</Flamengo>
+    <Fortaleza>3000</Fortaleza>
+    <Populacao>1500000</Populacao>
+    <Pib_percapita>55000</Pib_percapita>
+    <media_torcedores>4166.66666666666</media_torcedores>
+    <soma_torcedores>12500.0</soma_torcedores>
+    <torcedores_1M_hab>8333.33333333333</torcedores_1M_hab>
+  </row>
+</data>
