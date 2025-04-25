@@ -1,0 +1,646 @@
+CD_MUN,NM_MUN,pc_iluminacao,classe_ilu,tx_atropelamento,classe_obt,classe_bivariada
+3509205,Cajamar,87.29,Baixa,18.4875157914197,Média,Baixa_Média
+3549805,São José do Rio Preto,97.05,Média,25.3191306965552,Alta,Média_Alta
+3530607,Mogi das Cruzes,91.83,Baixa,30.7613432453217,Alta,Baixa_Alta
+3513009,Cotia,84.47,Baixa,17.7697871806665,Média,Baixa_Média
+3524709,Jaguariúna,91.19,Baixa,16.1809679455025,Média,Baixa_Média
+3548708,São Bernardo do Campo,96.11,Média,31.8858202091853,Alta,Média_Alta
+3529401,Mauá,94.28,Média,24.2209697703666,Alta,Média_Alta
+3518800,Guarulhos,93.57,Baixa,30.4006945332267,Alta,Baixa_Alta
+3518701,Guarujá,86.99,Baixa,34.5794360839806,Alta,Baixa_Alta
+3509502,Campinas,93.96,Média,20.9110294719038,Média,Média_Média
+3543303,Ribeirão Pires,93.67,Baixa,21.0301403972173,Média,Baixa_Média
+3550308,São Paulo,93.75,Baixa,37.3584200784527,Alta,Baixa_Alta
+3552205,Sorocaba,94.85,Média,29.4405373756203,Alta,Média_Alta
+3534401,Osasco,93.83,Baixa,22.9869265158161,Alta,Baixa_Alta
+3548500,Santos,93.67,Baixa,35.1516759900085,Alta,Baixa_Alta
+3507506,Botucatu,95.26,Média,25.923611757355,Alta,Média_Alta
+3525904,Jundiaí,94.16,Média,22.8105658541036,Alta,Média_Alta
+3506003,Bauru,95.6,Média,25.5271353448716,Alta,Média_Alta
+3547809,Santo André,94.26,Média,23.1151222982596,Alta,Média_Alta
+3509007,Caieiras,92.86,Baixa,12.2128703298493,Média,Baixa_Média
+3523404,Itatiba,94.03,Média,28.4803367008694,Alta,Média_Alta
+3524402,Jacareí,94.88,Média,20.8026627408308,Média,Média_Média
+3527207,Lorena,98.1,Alta,22.8911525695319,Alta,Alta_Alta
+3543402,Ribeirão Preto,95.62,Média,25.5354200988468,Alta,Média_Alta
+3549904,São José dos Campos,97.64,Alta,22.6283052503187,Alta,Alta_Alta
+3506102,Bebedouro,98.16,Alta,17.9005242296382,Média,Alta_Média
+3516408,Franco da Rocha,83.52,Baixa,22.0314315089528,Alta,Baixa_Alta
+3552809,Taboão da Serra,96.61,Média,12.6638384094219,Média,Média_Média
+3545803,Santa Bárbara d'Oeste,98.39,Alta,26.9359558039062,Alta,Alta_Alta
+3503208,Araraquara,98.98,Alta,12.6824087064736,Média,Alta_Média
+3526704,Leme,98.9,Alta,29.6103280824352,Alta,Alta_Alta
+3530805,Mogi Mirim,94.76,Média,16.7479640756171,Média,Média_Média
+3507605,Bragança Paulista,92.87,Baixa,23.8309303811866,Alta,Baixa_Alta
+3541406,Presidente Prudente,98.99,Alta,33.3215141637795,Alta,Alta_Alta
+3503802,Artur Nogueira,95.01,Média,16.9309780461651,Média,Média_Média
+3552502,Suzano,88.9,Baixa,22.2734616410208,Alta,Baixa_Alta
+3538709,Piracicaba,96.24,Média,23.6995444674097,Alta,Média_Alta
+3541000,Praia Grande,97.09,Alta,28.4481791797624,Alta,Alta_Alta
+3519071,Hortolândia,97.86,Alta,10.9165450347914,Média,Alta_Média
+3557006,Votorantim,92.62,Baixa,27.8511693727465,Alta,Baixa_Alta
+3526803,Lençóis Paulista,98.14,Alta,14.6209518239637,Média,Alta_Média
+3537800,Piedade,83.49,Baixa,20.281357744713,Média,Baixa_Média
+3549706,São José do Rio Pardo,97.15,Alta,20.5930807248764,Média,Alta_Média
+3506508,Birigui,97.11,Alta,29.2711484047224,Alta,Alta_Alta
+3523107,Itaquaquecetuba,84.27,Baixa,19.3453431314882,Média,Baixa_Média
+3509700,Campos do Jordão,87.27,Baixa,25.0088573036284,Alta,Baixa_Alta
+3522307,Itapetininga,96.81,Média,32.36166912941,Alta,Média_Alta
+3536505,Paulínia,94.12,Média,16.4231999308497,Média,Média_Média
+3542602,Registro,95.79,Média,24.2985809628718,Alta,Média_Alta
+3521804,Itaí,51.68,Baixa,26.9957578094871,Alta,Baixa_Alta
+3547304,Santana de Parnaíba,97.26,Alta,7.39184802360463,Baixa,Alta_Baixa
+3533908,Olímpia,96.17,Média,17.6363732562036,Média,Média_Média
+3513801,Diadema,98.0,Alta,26.7248674891987,Alta,Alta_Alta
+3510500,Caraguatatuba,94.27,Média,39.6926653624791,Alta,Média_Alta
+3526902,Limeira,95.86,Média,18.9540049479929,Média,Média_Média
+3557105,Votuporanga,98.36,Alta,21.9650755299075,Alta,Alta_Alta
+3543907,Rio Claro,98.07,Alta,16.2790809022441,Média,Alta_Média
+3537107,Pedreira,93.86,Baixa,20.3013624469909,Média,Baixa_Média
+3529005,Marília,98.82,Alta,23.1118247393838,Alta,Alta_Alta
+3515509,Fernandópolis,96.99,Média,25.9258248505854,Alta,Média_Alta
+3538006,Pindamonhangaba,96.31,Média,23.8334680021159,Alta,Média_Alta
+3539806,Poá,96.64,Média,22.5498210107957,Alta,Média_Alta
+3549102,São João da Boa Vista,98.21,Alta,28.1948998558927,Alta,Alta_Alta
+3556701,Vinhedo,92.07,Baixa,16.4068908941756,Média,Baixa_Média
+3522604,Itapira,92.7,Baixa,18.9396501576049,Média,Baixa_Média
+3548906,São Carlos,98.48,Alta,17.3392538089817,Média,Alta_Média
+3505708,Barueri,98.59,Alta,23.3093882345106,Alta,Alta_Alta
+3554003,Tatuí,93.42,Baixa,35.7809583074051,Alta,Baixa_Alta
+3522505,Itapevi,90.52,Baixa,22.7344124601114,Alta,Baixa_Alta
+3537602,Peruíbe,91.07,Baixa,28.3515019208143,Alta,Baixa_Alta
+3540705,Porto Ferreira,97.95,Alta,33.3704115684093,Alta,Alta_Alta
+3528502,Mairiporã,74.64,Baixa,21.5607963120771,Média,Baixa_Média
+3524808,Jales,98.31,Alta,45.9843653157926,Alta,Alta_Alta
+3536703,Pederneiras,94.48,Média,15.1439759427125,Média,Média_Média
+3551702,Sertãozinho,98.63,Alta,28.1155015197568,Alta,Alta_Alta
+3534708,Ourinhos,97.07,Média,23.3913751321613,Alta,Média_Alta
+3520509,Indaiatuba,98.12,Alta,13.8164871768062,Média,Alta_Média
+3524303,Jaboticabal,98.87,Alta,16.3338641839193,Média,Alta_Média
+3525300,Jaú,97.53,Alta,11.6513621170525,Média,Alta_Média
+3551009,São Vicente,93.31,Baixa,30.1412204830278,Alta,Baixa_Alta
+3501608,Americana,97.18,Alta,21.487502787294,Média,Alta_Média
+3545209,Salto,98.0,Alta,14.9866190900981,Média,Alta_Média
+3544103,Rio Grande da Serra,94.68,Média,15.4467418408103,Média,Média_Média
+3534609,Osvaldo Cruz,99.31,Alta,34.2689803420667,Alta,Alta_Alta
+3502200,Angatuba,91.87,Baixa,16.3185378590078,Média,Baixa_Média
+3556503,Várzea Paulista,92.34,Baixa,23.4160701144042,Alta,Baixa_Alta
+3522802,Itaporanga,92.55,Baixa,21.0378681626929,Média,Baixa_Média
+3514809,Eldorado,82.4,Baixa,15.1952590791673,Média,Baixa_Média
+3515707,Ferraz de Vasconcelos,87.13,Baixa,12.9295018909397,Média,Baixa_Média
+3515004,Embu das Artes,89.94,Baixa,21.5946907910212,Alta,Baixa_Alta
+3518404,Guaratinguetá,95.46,Média,32.865006983814,Alta,Média_Alta
+3527306,Louveira,95.58,Média,16.6324776847591,Média,Média_Média
+3508108,Buritama,94.86,Média,11.3655736773314,Média,Média_Média
+3516200,Franca,98.08,Alta,31.2902278422643,Alta,Alta_Alta
+3552403,Sumaré,96.05,Média,19.6696194101185,Média,Média_Média
+3548005,Santo Antônio de Posse,87.33,Baixa,8.4107826233231,Média,Baixa_Média
+3522208,Itapecerica da Serra,88.79,Baixa,26.841052169245,Alta,Baixa_Alta
+3503307,Araras,98.82,Alta,14.0396509299421,Média,Alta_Média
+3505906,Batatais,93.1,Baixa,20.0424231289563,Média,Baixa_Média
+3550605,São Roque,84.91,Baixa,27.0462983452583,Alta,Baixa_Alta
+3525003,Jandira,98.47,Alta,9.83703315080172,Média,Alta_Média
+3540606,Porto Feliz,94.77,Média,22.2812580341075,Alta,Média_Alta
+3553500,Tapiraí,87.42,Baixa,36.9367150948042,Alta,Baixa_Alta
+3509601,Campo Limpo Paulista,83.66,Baixa,10.0423032022394,Média,Baixa_Média
+3552106,Socorro,83.62,Baixa,7.24550175099626,Baixa,Baixa_Baixa
+3527108,Lins,97.62,Alta,26.0657639223762,Alta,Alta_Alta
+3555000,Tupã,93.38,Baixa,30.5735599853247,Alta,Baixa_Alta
+3500105,Adamantina,98.9,Alta,36.473823017788,Alta,Alta_Alta
+3505500,Barretos,98.92,Alta,18.957345971564,Média,Alta_Média
+3537305,Penápolis,97.63,Alta,31.5870935135904,Alta,Alta_Alta
+3530706,Mogi Guaçu,96.8,Média,25.0414749428741,Alta,Média_Alta
+3502804,Araçatuba,96.51,Média,29.3586812657923,Alta,Média_Alta
+3547502,Santa Rita do Passa Quatro,98.77,Alta,11.9712689545092,Média,Alta_Média
+3524006,Itupeva,87.36,Baixa,18.8885440980046,Média,Baixa_Média
+3529302,Matão,98.89,Alta,17.2843773920344,Média,Alta_Média
+3509254,Cajati,89.92,Baixa,34.1798543938203,Alta,Baixa_Alta
+3513405,Cruzeiro,96.35,Média,31.3672186425836,Alta,Média_Alta
+3508504,Caçapava,93.69,Baixa,24.0775296454584,Alta,Baixa_Alta
+3520301,Iguape,72.92,Baixa,20.0796492754593,Média,Baixa_Média
+3519709,Ibiúna,78.8,Baixa,14.1659476375063,Média,Baixa_Média
+3520442,Ilha Solteira,99.72,Alta,22.8658536585366,Alta,Alta_Alta
+3514106,Dois Córregos,94.65,Média,8.04667069000201,Média,Média_Média
+3550209,São Miguel Arcanjo,91.91,Baixa,15.1957208849988,Média,Baixa_Média
+3516705,Garça,97.83,Alta,32.4712976922185,Alta,Alta_Alta
+3513504,Cubatão,82.19,Baixa,26.9373142628734,Alta,Baixa_Alta
+3508405,Cabreúva,83.79,Baixa,14.4410290264683,Média,Baixa_Média
+3554102,Taubaté,97.06,Média,23.9652907892362,Alta,Média_Alta
+3531100,Mongaguá,91.66,Baixa,29.4486895333158,Alta,Baixa_Alta
+3511102,Catanduva,98.8,Alta,12.5868492598933,Média,Alta_Média
+3519501,Ibirarema,96.17,Média,15.4774802662127,Média,Média_Média
+3510005,Cândido Mota,97.13,Alta,19.8859870078218,Média,Alta_Média
+3553807,Taquarituba,96.24,Média,4.02204078349354,Baixa,Média_Baixa
+3516309,Francisco Morato,90.5,Baixa,13.4418813958517,Média,Baixa_Média
+3540200,Pontal,95.64,Média,2.60579528872212,Baixa,Média_Baixa
+3522703,Itápolis,99.34,Alta,29.655990510083,Alta,Alta_Alta
+3550704,São Sebastião,89.46,Baixa,22.6139325628727,Alta,Baixa_Alta
+3526407,Laranjal Paulista,90.27,Baixa,22.2148172831278,Alta,Baixa_Alta
+3518305,Guararema,94.53,Média,46.2449130595635,Alta,Média_Alta
+3515103,Embu-Guaçu,71.51,Baixa,20.3473584768549,Média,Baixa_Média
+3535309,Palmital,98.74,Alta,25.2946830576213,Alta,Alta_Alta
+3533403,Nova Odessa,97.5,Alta,14.0125801830977,Média,Alta_Média
+3504107,Atibaia,90.31,Baixa,22.2833844245165,Alta,Baixa_Alta
+3556206,Valinhos,95.69,Média,19.8054495456173,Média,Média_Média
+3510203,Capão Bonito,88.94,Baixa,21.0957112419045,Média,Baixa_Média
+3554508,Tietê,92.45,Baixa,41.3543551305247,Alta,Baixa_Alta
+3530300,Mirassol,98.49,Alta,44.2849507520806,Alta,Alta_Alta
+3512803,Cosmópolis,96.32,Média,4.90164041565911,Baixa,Média_Baixa
+3504008,Assis,98.9,Alta,27.7135375852908,Alta,Alta_Alta
+3542206,Rancharia,97.62,Alta,37.5362566114997,Alta,Alta_Alta
+3551801,Sete Barras,72.0,Baixa,7.74473358116481,Baixa,Baixa_Baixa
+3538600,Piracaia,85.17,Baixa,18.6818113884322,Média,Baixa_Média
+3533502,Novo Horizonte,97.42,Alta,32.9656396602003,Alta,Alta_Alta
+3546405,Santa Cruz do Rio Pardo,98.44,Alta,16.7795792520503,Média,Alta_Média
+3550001,São Luiz do Paraitinga,94.29,Média,28.5795941697628,Alta,Média_Alta
+3520400,Ilhabela,86.22,Baixa,41.289328085001,Alta,Baixa_Alta
+3544251,Rosana,95.69,Média,11.4070609707409,Média,Média_Média
+3512407,Cordeirópolis,97.39,Alta,3.97930760047752,Baixa,Alta_Baixa
+3507001,Boituva,95.64,Média,22.076795710794,Alta,Média_Alta
+3556305,Valparaíso,95.61,Média,8.08963313513732,Média,Média_Média
+3510609,Carapicuíba,96.56,Média,24.5945661066802,Alta,Média_Alta
+3507902,Brotas,98.08,Alta,12.2835032551284,Média,Alta_Média
+3504503,Avaré,83.97,Baixa,17.6902745114362,Média,Baixa_Média
+3523909,Itu,94.71,Média,21.7688945411633,Alta,Média_Alta
+3548807,São Caetano do Sul,99.88,Alta,20.3359498922195,Média,Alta_Média
+3546801,Santa Isabel,91.4,Baixa,21.9836588136152,Alta,Baixa_Alta
+3517406,Guaíra,98.58,Alta,7.42133386107263,Baixa,Alta_Baixa
+3545308,Salto de Pirapora,95.61,Média,11.0771412113962,Média,Média_Média
+3518602,Guariba,97.81,Alta,0.0,Baixa,Alta_Baixa
+3546603,Santa Fé do Sul,98.07,Alta,41.5535486730567,Alta,Alta_Alta
+3539509,Pitangueiras,97.66,Alta,17.4337517433752,Média,Alta_Média
+3553708,Taquaritinga,96.8,Média,26.2555793106035,Alta,Média_Alta
+3502507,Aparecida,92.19,Baixa,60.1992595491075,Alta,Baixa_Alta
+3532009,Morungaba,94.74,Média,7.10176834031674,Baixa,Média_Baixa
+3523206,Itararé,95.25,Média,8.824762282966,Média,Média_Média
+3512209,Conchal,94.77,Média,17.2211889508852,Média,Média_Média
+3519600,Ibitinga,97.65,Alta,33.921302578019,Alta,Alta_Alta
+3528403,Mairinque,90.9,Baixa,23.2288037166086,Alta,Baixa_Alta
+3522406,Itapeva,97.04,Média,28.1616914345132,Alta,Média_Alta
+3526209,Juquitiba,58.52,Baixa,60.6991109365516,Alta,Baixa_Alta
+3502705,Apiaí,75.45,Baixa,8.03664711082536,Média,Baixa_Média
+3546306,Santa Cruz das Palmeiras,98.93,Alta,13.5478408128704,Média,Alta_Média
+3555406,Ubatuba,81.29,Baixa,34.1621979751134,Alta,Baixa_Alta
+3538808,Piraju,97.31,Alta,23.1320842007865,Alta,Alta_Alta
+3512001,Colina,99.0,Alta,15.9218766585288,Média,Alta_Média
+3513702,Descalvado,98.24,Alta,15.3270798847404,Média,Alta_Média
+3514403,Dracena,97.07,Média,25.7157551860106,Alta,Média_Alta
+3521408,Iracemápolis,99.01,Alta,4.45732114998886,Baixa,Alta_Baixa
+3554300,Teodoro Sampaio,97.37,Alta,17.7312824150007,Média,Alta_Média
+3503901,Arujá,92.23,Baixa,20.0126746939729,Média,Baixa_Média
+3530201,Mirante do Paranapanema,97.97,Alta,37.3389756674342,Alta,Alta_Alta
+3547601,Santa Rosa de Viterbo,96.24,Média,12.6448893572181,Média,Média_Média
+3544004,Rio das Pedras,98.76,Alta,15.4957076889702,Média,Alta_Média
+3531803,Monte Mor,87.11,Baixa,25.2615311459819,Alta,Baixa_Alta
+3522109,Itanhaém,90.8,Baixa,25.5460467492656,Alta,Baixa_Alta
+3502754,Araçariguama,89.64,Baixa,27.0660411403825,Alta,Baixa_Alta
+3547700,Santo Anastácio,97.13,Alta,44.3336104183985,Alta,Alta_Alta
+3529906,Miracatu,88.5,Baixa,37.475239573853,Alta,Baixa_Alta
+3515152,Engenheiro Coelho,95.09,Média,14.8964695367198,Média,Média_Média
+3551504,Serrana,96.06,Média,17.6180408738548,Média,Média_Média
+3528908,Mariápolis,92.83,Baixa,56.5131393048884,Alta,Baixa_Alta
+3537404,Pereira Barreto,95.02,Média,32.8016728853171,Alta,Média_Alta
+3556453,Vargem Grande Paulista,80.35,Baixa,15.3542022532292,Média,Baixa_Média
+3502101,Andradina,95.1,Média,26.0276869519952,Alta,Média_Alta
+3517703,Guará,96.39,Média,10.6439595529537,Média,Média_Média
+3506607,Biritiba Mirim,74.71,Baixa,19.6553757452663,Média,Baixa_Média
+3520004,Igaraçu do Tietê,98.52,Alta,12.8040973111396,Média,Alta_Média
+3541604,Promissão,96.48,Média,16.6708343752605,Média,Média_Média
+3535804,Paranapanema,51.32,Baixa,15.1522804182029,Média,Baixa_Média
+3510401,Capivari,94.18,Média,11.6918040453642,Média,Média_Média
+3538907,Pirajuí,98.16,Alta,8.79391461108913,Média,Alta_Média
+3520202,Igaratá,55.69,Baixa,9.17094644167278,Média,Baixa_Média
+3505302,Barra Bonita,98.77,Alta,8.532665889246,Média,Alta_Média
+3539301,Pirassununga,98.15,Alta,38.4233189797946,Alta,Alta_Alta
+3501152,Alumínio,91.3,Baixa,28.4236257176966,Alta,Baixa_Alta
+3521705,Itaberá,93.94,Média,10.9541023113156,Média,Média_Média
+3531308,Monte Alto,96.58,Média,4.10466906105695,Baixa,Média_Baixa
+3502903,Araçoiaba da Serra,87.1,Baixa,17.8274304730212,Média,Baixa_Média
+3515186,Espírito Santo do Pinhal,98.66,Alta,19.6651999705022,Média,Alta_Média
+3501905,Amparo,91.06,Baixa,18.6468149805643,Média,Baixa_Média
+3541901,Queluz,87.95,Baixa,21.8674830527006,Alta,Baixa_Alta
+3528809,Maracaí,98.16,Alta,7.79666302822392,Baixa,Alta_Baixa
+3543501,Riversul,94.28,Média,0.0,Baixa,Média_Baixa
+3511003,Castilho,88.57,Baixa,19.5905573513566,Média,Baixa_Média
+3541505,Presidente Venceslau,95.73,Média,25.0682413236031,Alta,Média_Alta
+3530102,Mirandópolis,96.1,Média,20.8790061593068,Média,Média_Média
+3514700,Echaporã,99.24,Alta,0.0,Baixa,Alta_Baixa
+3522158,Itaoca,67.84,Baixa,28.6532951289398,Alta,Baixa_Alta
+3530508,Mococa,96.17,Média,23.080030004039,Alta,Média_Alta
+3513207,Cristais Paulista,91.84,Baixa,0.0,Baixa,Baixa_Baixa
+3550902,São Simão,97.33,Alta,22.075055187638,Alta,Alta_Alta
+3531704,Monteiro Lobato,95.33,Média,0.0,Baixa,Média_Baixa
+3556800,Viradouro,99.7,Alta,11.3115773994684,Média,Alta_Média
+3550100,São Manuel,96.06,Média,34.0617303359011,Alta,Média_Alta
+3507803,Brodowski,97.6,Alta,45.8592884167081,Alta,Alta_Alta
+3525102,Jardinópolis,97.89,Alta,10.6682597934625,Média,Alta_Média
+3500709,Agudos,97.62,Alta,5.14416523058721,Baixa,Alta_Baixa
+3519055,Holambra,97.69,Alta,19.2357014619133,Média,Alta_Média
+3507407,Borborema,98.03,Alta,20.8116545265349,Média,Alta_Média
+3513108,Cravinhos,97.75,Alta,20.4367628167698,Média,Alta_Média
+3543006,Ribeirão Branco,82.46,Baixa,21.1304807184363,Média,Baixa_Média
+3516853,Gavião Peixoto,97.68,Alta,20.8463623097769,Média,Alta_Média
+3553302,Tambaú,93.89,Baixa,4.61212065307629,Baixa,Baixa_Baixa
+3543600,Rifaina,95.77,Média,48.1000481000481,Alta,Média_Alta
+3511508,Cerquilho,96.0,Média,19.4733539606638,Média,Média_Média
+3520103,Igarapava,98.52,Alta,29.9009530928798,Alta,Alta_Alta
+3513850,Dirce Reis,97.04,Média,0.0,Baixa,Média_Baixa
+3536307,Patrocínio Paulista,88.13,Baixa,6.73990698928355,Baixa,Baixa_Baixa
+3524105,Ituverava,98.6,Alta,10.4028503810044,Média,Alta_Média
+3535507,Paraguaçu Paulista,96.59,Média,30.8883978425642,Alta,Média_Alta
+3529203,Martinópolis,95.83,Média,43.4799794458279,Alta,Média_Alta
+3516101,Florínea,95.48,Média,0.0,Baixa,Média_Baixa
+3509403,Cajuru,96.05,Média,0.0,Baixa,Média_Baixa
+3506359,Bertioga,92.99,Baixa,37.3842956051022,Alta,Baixa_Alta
+3511201,Catiguá,88.78,Baixa,42.2237860661506,Alta,Baixa_Alta
+3500501,Águas de Lindóia,97.29,Alta,0.0,Baixa,Alta_Baixa
+3545159,Saltinho,90.16,Baixa,0.0,Baixa,Baixa_Baixa
+3501301,Álvares Machado,94.24,Média,14.1592920353982,Média,Média_Média
+3528007,Macatuba,94.23,Média,11.6822429906542,Média,Média_Média
+3536208,Pariquera-Açu,92.46,Baixa,15.3248876174908,Média,Baixa_Média
+3551603,Serra Negra,92.22,Baixa,29.1073738680466,Alta,Baixa_Alta
+3507100,Bom Jesus dos Perdões,92.1,Baixa,26.665481534154,Alta,Baixa_Alta
+3525706,José Bonifácio,97.73,Alta,26.4137985683721,Alta,Alta_Alta
+3541307,Presidente Epitácio,96.31,Média,34.6680533888022,Alta,Média_Alta
+3541703,Quatá,98.22,Alta,22.3897305769087,Alta,Alta_Alta
+3543105,Ribeirão Corrente,92.68,Baixa,0.0,Baixa,Baixa_Baixa
+3501707,Américo Brasiliense,98.43,Alta,20.7364398495127,Média,Alta_Média
+3529708,Miguelópolis,95.89,Média,20.351055711015,Média,Média_Média
+3509106,Caiuá,95.19,Média,0.0,Baixa,Média_Baixa
+3550407,São Pedro,94.23,Média,22.6557583385777,Alta,Média_Alta
+3521002,Iperó,81.34,Baixa,15.7898892076107,Média,Baixa_Média
+3520426,Ilha Comprida,79.06,Baixa,28.6635614475099,Alta,Baixa_Alta
+3525201,Jarinu,70.63,Baixa,10.1186410665048,Média,Baixa_Média
+3526001,Junqueirópolis,98.01,Alta,28.7383849027685,Alta,Alta_Alta
+3515608,Fernando Prestes,97.19,Alta,16.4853280580284,Média,Alta_Média
+3509908,Cananéia,90.9,Baixa,0.0,Baixa,Baixa_Baixa
+3515400,Fartura,94.24,Média,5.88789448893076,Baixa,Média_Baixa
+3505807,Bastos,98.93,Alta,9.1324200913242,Média,Alta_Média
+3540259,Pontalinda,97.7,Alta,0.0,Baixa,Alta_Baixa
+3539202,Pirapozinho,94.94,Média,15.3462497602148,Média,Média_Média
+3506409,Bilac,98.36,Alta,0.0,Baixa,Alta_Baixa
+3553856,Taquarivaí,78.35,Baixa,14.0607424071991,Média,Baixa_Média
+3505005,Barão de Antonina,95.83,Média,55.2791597567717,Alta,Média_Alta
+3536802,Pedra Bela,89.13,Baixa,14.8853825543316,Média,Baixa_Média
+3531506,Monte Azul Paulista,96.97,Média,0.0,Baixa,Média_Baixa
+3510807,Casa Branca,95.88,Média,13.8956437156951,Média,Média_Média
+3540754,Potim,90.52,Baixa,9.63066403428516,Média,Baixa_Média
+3506300,Bernardino de Campos,96.74,Média,16.8747890651367,Média,Média_Média
+3542107,Rafard,94.13,Média,0.0,Baixa,Média_Baixa
+3543253,Ribeirão Grande,92.0,Baixa,13.2100396301189,Média,Baixa_Média
+3503158,Arapeí,88.59,Baixa,0.0,Baixa,Baixa_Baixa
+3553955,Tarumã,99.33,Alta,32.791185729276,Alta,Alta_Alta
+3536406,Paulicéia,94.07,Média,12.1951219512195,Média,Média_Média
+3505203,Bariri,98.96,Alta,15.4297176361673,Média,Alta_Média
+3514908,Elias Fausto,93.54,Baixa,5.52394630724189,Baixa,Baixa_Baixa
+3537909,Pilar do Sul,67.96,Baixa,17.5951015237358,Média,Baixa_Média
+3550803,São Sebastião da Grama,96.94,Média,19.0766882869134,Média,Média_Média
+3520905,Ipaussu,95.98,Média,7.17720519629656,Baixa,Média_Baixa
+3538501,Piquete,99.07,Alta,7.95544948289578,Baixa,Alta_Baixa
+3504909,Bananal,87.78,Baixa,19.7843505786923,Média,Baixa_Média
+3549953,São Lourenço da Serra,65.27,Baixa,36.4564345607,Alta,Baixa_Alta
+3529658,Mesópolis,97.48,Alta,0.0,Baixa,Alta_Baixa
+3547908,Santo Antônio da Alegria,92.72,Baixa,0.0,Baixa,Baixa_Baixa
+3518206,Guararapes,99.35,Alta,12.5502008032129,Média,Alta_Média
+3506904,Bofete,68.45,Baixa,9.3562874251497,Média,Baixa_Média
+3546207,Santa Cruz da Conceição,96.24,Média,91.6380297823597,Alta,Média_Alta
+3519303,Ibaté,94.45,Média,21.1416490486258,Média,Média_Média
+3540002,Pompéia,96.56,Média,24.3759750390016,Alta,Média_Alta
+3553401,Tanabi,95.44,Média,11.5291495330694,Média,Média_Média
+3524907,Jambeiro,80.18,Baixa,30.4182509505703,Alta,Baixa_Alta
+3523602,Itirapina,93.9,Baixa,24.3412645286923,Alta,Baixa_Alta
+3555109,Tupi Paulista,98.17,Alta,0.0,Baixa,Alta_Baixa
+3526100,Juquiá,92.5,Baixa,34.7725297015358,Alta,Baixa_Alta
+3538204,Pinhalzinho,87.6,Baixa,0.0,Baixa,Baixa_Baixa
+3546702,Santa Gertrudes,94.47,Média,37.3335545692123,Alta,Média_Alta
+3500303,Aguaí,97.67,Alta,21.2843590367307,Média,Alta_Média
+3523503,Itatinga,91.87,Baixa,10.2949503268647,Média,Baixa_Média
+3539400,Piratininga,87.95,Baixa,12.8584287000129,Média,Baixa_Média
+3545001,Salesópolis,87.68,Baixa,0.0,Baixa,Baixa_Baixa
+3548302,Santo Expedito,95.36,Média,0.0,Baixa,Média_Baixa
+3500402,Águas da Prata,95.74,Média,40.1606425702811,Alta,Média_Alta
+3545605,Santa Adélia,96.87,Média,14.0815320706893,Média,Média_Média
+3536901,Pedranópolis,91.27,Baixa,0.0,Baixa,Baixa_Baixa
+3508603,Cachoeira Paulista,94.73,Média,27.7076534696139,Alta,Média_Alta
+3500550,Águas de Santa Bárbara,85.7,Baixa,13.5007425408397,Média,Baixa_Média
+3536604,Paulo de Faria,97.47,Alta,13.4589502018843,Média,Alta_Média
+3517802,Guaraçaí,97.8,Alta,0.0,Baixa,Alta_Baixa
+3501004,Altinópolis,97.13,Alta,29.1443226859408,Alta,Alta_Alta
+3540408,Populina,98.02,Alta,23.89486260454,Alta,Alta_Alta
+3513306,Cruzália,93.27,Baixa,0.0,Baixa,Baixa_Baixa
+3530003,Mira Estrela,79.92,Baixa,0.0,Baixa,Baixa_Baixa
+3513603,Cunha,87.97,Baixa,31.1720698254364,Alta,Baixa_Alta
+3541208,Presidente Bernardes,96.93,Média,6.76956404007582,Baixa,Média_Baixa
+3557303,Estiva Gerbi,94.56,Média,0.0,Baixa,Média_Baixa
+3529807,Mineiros do Tietê,97.87,Alta,26.4340470526038,Alta,Alta_Alta
+3539707,Platina,100.0,Alta,0.0,Baixa,Alta_Baixa
+3535903,Paranapuã,98.04,Alta,0.0,Baixa,Alta_Baixa
+3546900,Santa Lúcia,96.15,Média,13.9256370978972,Média,Média_Média
+3534302,Orlândia,97.11,Alta,15.3088561732963,Média,Alta_Média
+3554805,Tremembé,94.83,Média,26.3737919861349,Alta,Média_Alta
+3552908,Taciba,98.44,Alta,0.0,Baixa,Alta_Baixa
+3525854,Jumirim,76.02,Baixa,128.081972462376,Alta,Baixa_Alta
+3534203,Orindiúva,93.73,Baixa,0.0,Baixa,Baixa_Baixa
+3537156,Pedrinhas Paulista,99.02,Alta,0.0,Baixa,Alta_Baixa
+3527405,Lucélia,97.31,Alta,24.5434910661693,Alta,Alta_Alta
+3531209,Monte Alegre do Sul,92.24,Baixa,0.0,Baixa,Baixa_Baixa
+3535606,Paraibuna,88.52,Baixa,16.7130919220056,Média,Baixa_Média
+3554201,Tejupá,83.99,Baixa,0.0,Baixa,Baixa_Baixa
+3545704,Santa Albertina,96.83,Média,0.0,Baixa,Média_Baixa
+3543709,Rincão,98.45,Alta,0.0,Baixa,Alta_Baixa
+3555307,Turmalina,98.68,Alta,0.0,Baixa,Alta_Baixa
+3548203,Santo Antônio do Pinhal,75.32,Baixa,0.0,Baixa,Baixa_Baixa
+3556354,Vargem,73.27,Baixa,27.76492364646,Alta,Baixa_Alta
+3512704,Corumbataí,93.11,Baixa,23.3372228704784,Alta,Baixa_Alta
+3539004,Pirangi,97.6,Alta,18.0570603105814,Média,Alta_Média
+3508207,Buritizal,99.4,Alta,22.4870699347875,Alta,Alta_Alta
+3512308,Conchas,90.92,Baixa,0.0,Baixa,Baixa_Baixa
+3516606,Gália,70.78,Baixa,15.5400155400155,Média,Baixa_Média
+3549250,São João de Iracema,97.03,Média,0.0,Baixa,Média_Baixa
+3502002,Analândia,82.96,Baixa,0.0,Baixa,Baixa_Baixa
+3519105,Iacanga,93.79,Baixa,28.2140505971974,Alta,Baixa_Alta
+3531902,Morro Agudo,98.01,Alta,17.5063898322888,Média,Alta_Média
+3527603,Luís Antônio,94.9,Média,15.9604181629559,Média,Média_Média
+3511706,Charqueada,94.39,Média,18.9897455374098,Média,Média_Média
+3510302,Capela do Alto,94.84,Média,25.4269610543713,Alta,Média_Alta
+3510153,Canitar,85.52,Baixa,15.3280196198651,Média,Baixa_Média
+3519402,Ibirá,88.98,Baixa,25.1382604323781,Alta,Baixa_Alta
+3536000,Parapuã,96.5,Média,9.32053313449529,Média,Média_Média
+3549409,São Joaquim da Barra,98.36,Alta,18.06684733514,Média,Alta_Média
+3532306,Natividade da Serra,87.09,Baixa,0.0,Baixa,Baixa_Baixa
+3555604,Uchoa,96.69,Média,0.0,Baixa,Média_Baixa
+3556008,Urupês,97.76,Alta,0.0,Baixa,Alta_Baixa
+3520806,Inúbia Paulista,96.67,Média,0.0,Baixa,Média_Baixa
+3536570,Paulistânia,81.17,Baixa,0.0,Baixa,Baixa_Baixa
+3534500,Oscar Bressane,100.0,Alta,39.9361022364217,Alta,Alta_Alta
+3552700,Tabatinga,96.93,Média,20.0080032012805,Média,Média_Média
+3522901,Itapuí,97.63,Alta,28.604118993135,Alta,Alta_Alta
+3546009,Santa Branca,94.34,Média,7.03630734590487,Baixa,Média_Baixa
+3532108,Murutinga do Sul,96.28,Média,26.5745415891576,Alta,Média_Alta
+3527256,Lourdes,97.42,Alta,0.0,Baixa,Alta_Baixa
+3512902,Cosmorama,96.24,Média,22.3015165031222,Alta,Média_Alta
+3532702,Nipoã,87.89,Baixa,0.0,Baixa,Baixa_Baixa
+3544806,Sales,97.32,Alta,30.2480338777979,Alta,Alta_Alta
+3551108,Sarapuí,96.29,Média,0.0,Baixa,Média_Baixa
+3516002,Flórida Paulista,95.35,Média,15.1848758636398,Média,Média_Média
+3532207,Narandiba,97.4,Alta,0.0,Baixa,Alta_Baixa
+3537503,Pereiras,93.31,Baixa,11.1495149960977,Média,Baixa_Média
+3508306,Cabrália Paulista,96.5,Média,0.0,Baixa,Média_Baixa
+3502606,Aparecida d'Oeste,98.65,Alta,48.4966052376334,Alta,Alta_Alta
+3532405,Nazaré Paulista,77.59,Baixa,10.7411385606874,Média,Baixa_Média
+3526506,Lavínia,97.33,Alta,0.0,Baixa,Alta_Baixa
+3540804,Potirendaba,96.06,Média,5.26482046962199,Baixa,Média_Baixa
+3552304,Sud Mennucci,98.55,Alta,0.0,Baixa,Alta_Baixa
+3510708,Cardoso,88.46,Baixa,17.4049255939431,Média,Baixa_Média
+3523305,Itariri,87.09,Baixa,25.3774901662226,Alta,Baixa_Alta
+3509957,Canas,86.06,Baixa,19.8059021588433,Média,Baixa_Média
+3503109,Arandu,39.91,Baixa,0.0,Baixa,Baixa_Baixa
+3515194,Espírito Santo do Turvo,97.5,Alta,23.7135404315864,Alta,Alta_Alta
+3505609,Barrinha,95.24,Média,21.0964105964257,Média,Média_Média
+3504206,Auriflama,99.23,Alta,21.624738701074,Alta,Alta_Alta
+3528205,Macedônia,90.29,Baixa,0.0,Baixa,Baixa_Baixa
+3548401,Santópolis do Aguapeí,95.77,Média,25.4258835494533,Alta,Média_Alta
+3545407,Salto Grande,97.0,Média,21.7108119843682,Alta,Média_Alta
+3542404,Regente Feijó,94.56,Média,19.4505227327984,Média,Média_Média
+3521101,Ipeúna,98.83,Alta,0.0,Baixa,Alta_Baixa
+3505104,Barbosa,95.11,Média,35.3419332037462,Alta,Média_Alta
+3508702,Caconde,91.8,Baixa,11.5834588208039,Média,Baixa_Média
+3505401,Barra do Turvo,90.16,Baixa,57.7867668303958,Alta,Baixa_Alta
+3546108,Santa Clara d'Oeste,100.0,Alta,0.0,Baixa,Alta_Baixa
+3534906,Pacaembu,90.23,Baixa,6.57159755536571,Baixa,Baixa_Baixa
+3503703,Ariranha,93.92,Média,13.0667712008363,Média,Média_Média
+3556958,Vitória Brasil,92.0,Baixa,0.0,Baixa,Baixa_Baixa
+3532900,Nova Europa,98.34,Alta,21.143884131515,Média,Alta_Média
+3502408,Anhumas,96.85,Média,0.0,Baixa,Média_Baixa
+3507753,Brejo Alegre,93.82,Baixa,0.0,Baixa,Baixa_Baixa
+3532058,Motuca,91.19,Baixa,0.0,Baixa,Baixa_Baixa
+3517208,Guaiçara,87.21,Baixa,17.4535299764377,Média,Baixa_Média
+3542503,Reginópolis,98.19,Alta,0.0,Baixa,Alta_Baixa
+3517505,Guapiaçu,96.66,Média,13.4432694031188,Média,Média_Média
+3500600,Águas de São Pedro,94.25,Média,0.0,Baixa,Média_Baixa
+3519907,Iepê,94.55,Média,12.9215660938106,Média,Média_Média
+3514601,Dumont,98.51,Alta,41.1564975820558,Alta,Alta_Alta
+3537206,Pedro de Toledo,86.06,Baixa,8.66626224109542,Média,Baixa_Média
+3514957,Embaúba,98.37,Alta,0.0,Baixa,Alta_Baixa
+3519006,Herculândia,90.49,Baixa,10.7503762631692,Média,Baixa_Média
+3517901,Guaraci,92.57,Baixa,18.9717321191425,Média,Baixa_Média
+3507308,Boracéia,95.8,Média,0.0,Baixa,Média_Baixa
+3511904,Clementina,97.55,Alta,14.110342881332,Média,Alta_Média
+3536257,Parisi,83.78,Baixa,0.0,Baixa,Baixa_Baixa
+3556404,Vargem Grande do Sul,96.63,Média,19.4052297094067,Média,Média_Média
+3504602,Bady Bassitt,96.89,Média,34.5913037462382,Alta,Média_Alta
+3504800,Bálsamo,96.63,Média,0.0,Baixa,Média_Baixa
+3548609,São Bento do Sapucaí,93.11,Baixa,8.36960160696351,Média,Baixa_Média
+3501400,Álvaro de Carvalho,96.12,Média,20.4248366013072,Média,Média_Média
+3554953,Tuiuti,89.62,Baixa,14.3947027493882,Média,Baixa_Média
+3518503,Guareí,89.71,Baixa,6.54964631909877,Baixa,Baixa_Baixa
+3530409,Mirassolândia,93.14,Baixa,20.9599664640537,Média,Baixa_Média
+3524600,Jacupiranga,92.33,Baixa,49.2186538698167,Alta,Baixa_Alta
+3515202,Estrela d'Oeste,98.28,Alta,0.0,Baixa,Alta_Baixa
+3532827,Nova Campina,89.87,Baixa,0.0,Baixa,Baixa_Baixa
+3535408,Panorama,96.15,Média,6.57289338766925,Baixa,Média_Baixa
+3528700,Marabá Paulista,94.38,Média,0.0,Baixa,Média_Baixa
+3546256,Santa Cruz da Esperança,95.56,Média,46.2534690101758,Alta,Média_Alta
+3539103,Pirapora do Bom Jesus,86.62,Baixa,10.6179655977915,Média,Baixa_Média
+3500758,Alambari,97.54,Alta,15.7977883096367,Média,Alta_Média
+3547007,Santa Maria da Serra,94.65,Média,18.8182160331201,Média,Média_Média
+3529609,Meridiano,86.93,Baixa,42.5803704492229,Alta,Baixa_Alta
+3538105,Pindorama,96.77,Média,20.3790503362543,Média,Média_Média
+3509304,Cajobi,97.22,Alta,10.8318890814558,Média,Alta_Média
+3550506,São Pedro do Turvo,99.06,Alta,0.0,Baixa,Alta_Baixa
+3549508,São José da Bela Vista,96.33,Média,13.0039011703511,Média,Média_Média
+3544509,Rubinéia,93.98,Média,25.2206809583859,Alta,Média_Alta
+3544905,Sales Oliveira,95.36,Média,34.3229792345976,Alta,Média_Alta
+3500204,Adolfo,98.44,Alta,0.0,Baixa,Alta_Baixa
+3511607,Cesário Lange,90.48,Baixa,25.5258321421278,Alta,Baixa_Alta
+3517604,Guapiara,92.81,Baixa,5.79508576726936,Baixa,Baixa_Baixa
+3518859,Guatapará,92.0,Baixa,13.401232913428,Média,Baixa_Média
+3521903,Itajobi,98.26,Alta,22.9621125143513,Alta,Alta_Alta
+3508900,Caiabu,95.06,Média,26.7022696929239,Alta,Média_Alta
+3525508,Joanópolis,93.38,Baixa,22.9095074455899,Alta,Baixa_Alta
+3533106,Nova Guataporanga,95.47,Média,0.0,Baixa,Média_Baixa
+3513900,Divinolândia,94.72,Média,8.8386070355312,Média,Média_Média
+3553203,Taiúva,92.73,Baixa,29.7044408139017,Alta,Baixa_Alta
+3554706,Torrinha,97.42,Alta,10.5440742302826,Média,Alta_Média
+3538303,Piquerobi,99.09,Alta,30.3398058252427,Alta,Alta_Alta
+3512100,Colômbia,98.01,Alta,14.7470874502286,Média,Alta_Média
+3553609,Tapiratiba,92.17,Baixa,0.0,Baixa,Baixa_Baixa
+3544608,Sabino,98.11,Alta,0.0,Baixa,Alta_Baixa
+3551900,Severínia,97.44,Alta,6.79163270850312,Baixa,Alta_Baixa
+3533007,Nova Granada,94.85,Média,20.2788339670469,Média,Média_Média
+3517000,Getulina,86.48,Baixa,0.0,Baixa,Baixa_Baixa
+3544202,Riolândia,96.08,Média,28.6998947670525,Alta,Média_Alta
+3534104,Oriente,98.25,Alta,16.1812297734628,Média,Alta_Média
+3523701,Itirapuã,98.52,Alta,34.123869646818,Alta,Alta_Alta
+3514007,Dobrada,98.91,Alta,11.1632060727841,Média,Alta_Média
+3547403,Santa Rita d'Oeste,100.0,Alta,35.84229390681,Alta,Alta_Alta
+3506805,Bocaina,91.87,Baixa,0.0,Baixa,Baixa_Baixa
+3532157,Nantes,97.31,Alta,0.0,Baixa,Alta_Baixa
+3527504,Lucianópolis,97.18,Alta,0.0,Baixa,Alta_Baixa
+3519253,Iaras,86.82,Baixa,0.0,Baixa,Baixa_Baixa
+3547650,Santa Salete,98.8,Alta,0.0,Baixa,Alta_Baixa
+3552007,Silveiras,94.76,Média,0.0,Baixa,Média_Baixa
+3556909,Vista Alegre do Alto,96.68,Média,0.0,Baixa,Média_Baixa
+3548054,Santo Antônio do Aracanguá,91.07,Baixa,0.0,Baixa,Baixa_Baixa
+3542800,Ribeira,70.31,Baixa,63.1711939355654,Alta,Baixa_Alta
+3526605,Lavrinhas,83.54,Baixa,13.646288209607,Média,Baixa_Média
+3551207,Sarutaiá,94.52,Média,0.0,Baixa,Média_Baixa
+3532843,Nova Canaã Paulista,95.63,Média,0.0,Baixa,Média_Baixa
+3503406,Arealva,85.55,Baixa,24.1545893719807,Alta,Baixa_Alta
+3542008,Quintana,95.69,Média,0.0,Baixa,Média_Baixa
+3515301,Estrela do Norte,92.11,Baixa,0.0,Baixa,Baixa_Baixa
+3556107,Valentim Gentil,97.44,Alta,20.645516482004,Média,Alta_Média
+3516903,General Salgado,91.06,Baixa,28.7108814240597,Alta,Baixa_Alta
+3541109,Presidente Alves,93.12,Baixa,0.0,Baixa,Baixa_Baixa
+3535200,Palmeira d'Oeste,98.29,Alta,11.1185234600845,Média,Alta_Média
+3540507,Porangaba,39.51,Baixa,18.5649308456326,Média,Baixa_Média
+3522653,Itapirapuã Paulista,73.96,Baixa,0.0,Baixa,Baixa_Baixa
+3521606,Irapuru,97.53,Alta,0.0,Baixa,Alta_Baixa
+3531605,Monte Castelo,98.19,Alta,23.2504068821204,Alta,Alta_Alta
+3531407,Monte Aprazível,98.49,Alta,13.2450331125828,Média,Alta_Média
+3535705,Paraíso,94.47,Média,48.3014007406215,Alta,Média_Alta
+3535002,Palestina,96.18,Média,0.0,Baixa,Média_Baixa
+3529500,Mendonça,98.23,Alta,15.701051970482,Média,Alta_Média
+3514924,Elisiário,95.65,Média,0.0,Baixa,Média_Baixa
+3509452,Campina do Monte Alegre,92.11,Baixa,0.0,Baixa,Baixa_Baixa
+3542701,Restinga,99.12,Alta,46.2107208872458,Alta,Alta_Alta
+3510906,Cássia dos Coqueiros,63.54,Baixa,35.0262697022767,Alta,Baixa_Alta
+3518008,Guarani d'Oeste,96.53,Média,0.0,Baixa,Média_Baixa
+3540903,Pradópolis,98.5,Alta,28.8867063377434,Alta,Alta_Alta
+3515350,Euclides da Cunha Paulista,80.2,Baixa,0.0,Baixa,Baixa_Baixa
+3524204,Jaborandi,100.0,Alta,31.781344350866,Alta,Alta_Alta
+3542909,Ribeirão Bonito,94.41,Média,18.0521707735355,Média,Média_Média
+3534757,Ouroeste,94.08,Média,9.43752359380899,Média,Média_Média
+3500907,Altair,96.18,Média,0.0,Baixa,Média_Baixa
+3518909,Guzolândia,96.98,Média,0.0,Baixa,Média_Baixa
+3519204,Iacri,99.84,Alta,16.1108425970678,Média,Alta_Média
+3544707,Sagres,95.28,Média,0.0,Baixa,Média_Baixa
+3528304,Magda,93.87,Baixa,31.1332503113325,Alta,Baixa_Alta
+3511300,Cedral,97.71,Alta,37.9939209726444,Alta,Alta_Alta
+3521200,Iporanga,89.43,Baixa,0.0,Baixa,Baixa_Baixa
+3503604,Areiópolis,96.45,Média,19.4988788144682,Média,Média_Média
+3541059,Pratânia,96.45,Média,0.0,Baixa,Média_Baixa
+3501509,Alvinlândia,98.23,Alta,0.0,Baixa,Alta_Baixa
+3532801,Nova Aliança,97.56,Alta,0.0,Baixa,Alta_Baixa
+3510104,Cândido Rodrigues,94.33,Média,0.0,Baixa,Média_Baixa
+3533304,Nova Luzitânia,97.03,Média,0.0,Baixa,Média_Baixa
+3557154,Zacarias,96.64,Média,0.0,Baixa,Média_Baixa
+3521309,Ipuã,95.55,Média,13.6137771424682,Média,Média_Média
+3501806,Américo de Campos,95.38,Média,0.0,Baixa,Média_Baixa
+3534005,Onda Verde,92.63,Baixa,20.3583061889251,Média,Baixa_Média
+3540101,Pongaí,93.88,Baixa,0.0,Baixa,Baixa_Baixa
+3541653,Quadra,20.76,Baixa,0.0,Baixa,Baixa_Baixa
+3515657,Fernão,86.54,Baixa,0.0,Baixa,Baixa_Baixa
+3520707,Indiaporã,92.98,Baixa,48.6736432221952,Alta,Baixa_Alta
+3504305,Avaí,97.99,Alta,22.1287895552113,Alta,Alta_Alta
+3504404,Avanhandava,96.73,Média,17.4855744011191,Média,Média_Média
+3527009,Lindóia,94.11,Média,0.0,Baixa,Média_Baixa
+3533254,Novais,98.5,Alta,0.0,Baixa,Alta_Baixa
+3507456,Borebi,99.66,Alta,35.880875493362,Alta,Alta_Alta
+3502309,Anhembi,92.31,Baixa,0.0,Baixa,Baixa_Baixa
+3552601,Tabapuã,93.52,Baixa,17.3928167666754,Média,Baixa_Média
+3547106,Santa Mercedes,74.91,Baixa,0.0,Baixa,Baixa_Baixa
+3555703,União Paulista,98.31,Alta,0.0,Baixa,Alta_Baixa
+3512605,Coronel Macedo,96.06,Média,0.0,Baixa,Média_Baixa
+3557204,Chavantes,98.7,Alta,0.0,Baixa,Alta_Baixa
+3525607,João Ramalho,97.66,Alta,44.8833034111311,Alta,Alta_Alta
+3507209,Borá,94.81,Média,0.0,Baixa,Média_Baixa
+3511409,Cerqueira César,94.62,Média,4.52980612429788,Baixa,Média_Baixa
+3523008,Itapura,96.31,Média,0.0,Baixa,Média_Baixa
+3507704,Braúna,96.71,Média,0.0,Baixa,Média_Baixa
+3554656,Torre de Pedra,84.69,Baixa,0.0,Baixa,Baixa_Baixa
+3555505,Ubirajara,97.22,Alta,0.0,Baixa,Alta_Baixa
+3551405,Serra Azul,93.29,Baixa,0.0,Baixa,Baixa_Baixa
+3528106,Macaubal,97.56,Alta,26.3608804534071,Alta,Alta_Alta
+3548104,Santo Antônio do Jardim,93.53,Baixa,16.0333493666827,Média,Baixa_Média
+3517109,Glicério,94.14,Média,0.0,Baixa,Média_Baixa
+3551306,Sebastianópolis do Sul,98.46,Alta,31.3774709758393,Alta,Alta_Alta
+3553658,Taquaral,97.63,Alta,37.7073906485671,Alta,Alta_Alta
+3533700,Ocauçu,99.72,Alta,0.0,Baixa,Alta_Baixa
+3553906,Tarabai,94.96,Média,0.0,Baixa,Média_Baixa
+3539905,Poloni,98.02,Alta,0.0,Baixa,Alta_Baixa
+3536109,Pardinho,90.81,Baixa,27.0929287455974,Alta,Baixa_Alta
+3521150,Ipiguá,96.71,Média,0.0,Baixa,Média_Baixa
+3516507,Gabriel Monteiro,98.99,Alta,0.0,Baixa,Alta_Baixa
+3527900,Lutécia,94.34,Média,0.0,Baixa,Média_Baixa
+3503356,Arco-Íris,95.34,Média,0.0,Baixa,Média_Baixa
+3553005,Taguaí,96.3,Média,15.3775180685837,Média,Média_Média
+3540309,Pontes Gestal,97.11,Alta,41.407867494824,Alta,Alta_Alta
+3556602,Vera Cruz,97.35,Alta,19.4287934719254,Média,Alta_Média
+3508009,Buri,92.05,Baixa,4.83699332494921,Baixa,Baixa_Baixa
+3555802,Urânia,97.87,Alta,11.1445447453472,Média,Alta_Média
+3505351,Barra do Chapéu,74.74,Baixa,0.0,Baixa,Baixa_Baixa
+3509809,Campos Novos Paulista,96.77,Média,0.0,Baixa,Média_Baixa
+3521507,Irapuã,97.55,Alta,0.0,Baixa,Alta_Baixa
+3515905,Floreal,99.16,Alta,0.0,Baixa,Alta_Baixa
+3524501,Jaci,99.0,Alta,25.3871541000254,Alta,Alta_Alta
+3514205,Dolcinópolis,99.05,Alta,44.4444444444445,Alta,Alta_Alta
+3523800,Itobi,96.6,Média,12.1802679658953,Média,Média_Média
+3516804,Gastão Vidigal,99.1,Alta,0.0,Baixa,Alta_Baixa
+3545506,Sandovalina,96.11,Média,0.0,Baixa,Média_Baixa
+3514502,Duartina,97.61,Alta,7.98148295953388,Baixa,Alta_Baixa
+3515806,Flora Rica,96.89,Média,0.0,Baixa,Média_Baixa
+3549201,São João das Duas Pontes,98.29,Alta,0.0,Baixa,Alta_Baixa
+3555901,Uru,96.73,Média,0.0,Baixa,Média_Baixa
+3539608,Planalto,95.85,Média,0.0,Baixa,Média_Baixa
+3529104,Marinópolis,98.8,Alta,0.0,Baixa,Alta_Baixa
+3533601,Nuporanga,99.67,Alta,0.0,Baixa,Alta_Baixa
+3501202,Álvares Florence,97.41,Alta,0.0,Baixa,Alta_Baixa
+3554409,Terra Roxa,97.94,Alta,0.0,Baixa,Alta_Baixa
+3501103,Alto Alegre,95.21,Média,0.0,Baixa,Média_Baixa
+3554904,Três Fronteiras,98.72,Alta,0.0,Baixa,Alta_Baixa
+3512506,Coroados,94.85,Média,18.1884321571481,Média,Média_Média
+3553104,Taiaçu,99.44,Alta,0.0,Baixa,Alta_Baixa
+3555356,Ubarana,94.74,Média,0.0,Baixa,Média_Baixa
+3537701,Piacatu,98.54,Alta,0.0,Baixa,Alta_Baixa
+3528601,Manduri,96.83,Média,19.8176773682124,Média,Média_Média
+3515129,Emilianópolis,97.54,Alta,0.0,Baixa,Alta_Baixa
+3528858,Marapoama,98.05,Alta,0.0,Baixa,Alta_Baixa
+3552551,Suzanápolis,97.95,Alta,0.0,Baixa,Alta_Baixa
+3547205,Santana da Ponte Pensa,99.44,Alta,0.0,Baixa,Alta_Baixa
+3520608,Indiana,98.36,Alta,0.0,Baixa,Alta_Baixa
+3527702,Luiziânia,89.39,Baixa,42.0964007577352,Alta,Baixa_Alta
+3543808,Rinópolis,99.31,Alta,21.3743721278187,Média,Alta_Média
+3506201,Bento de Abreu,98.76,Alta,0.0,Baixa,Alta_Baixa
+3526308,Lagoinha,93.64,Baixa,19.2975685063682,Média,Baixa_Média
+3504701,Balbinos,91.54,Baixa,25.2334090335604,Alta,Baixa_Alta
+3506706,Boa Esperança do Sul,99.33,Alta,0.0,Baixa,Alta_Baixa
+3503950,Aspásia,100.0,Alta,53.3902829684997,Alta,Alta_Alta
+3517307,Guaimbê,97.59,Alta,0.0,Baixa,Alta_Baixa
+3503505,Areias,89.09,Baixa,0.0,Baixa,Baixa_Baixa
+3546504,Santa Ernestina,96.75,Média,15.9846547314578,Média,Média_Média
+3543204,Ribeirão do Sul,82.36,Baixa,62.9194630872483,Alta,Baixa_Alta
+3535101,Palmares Paulista,93.33,Baixa,20.599443815017,Média,Baixa_Média
+3555208,Turiúba,95.08,Média,0.0,Baixa,Média_Baixa
+3554755,Trabiju,100.0,Alta,0.0,Baixa,Alta_Baixa
+3530904,Mombuca,94.43,Média,0.0,Baixa,Média_Baixa
+3534807,Ouro Verde,98.39,Alta,25.3132514871535,Alta,Alta_Alta
+3508801,Cafelândia,93.77,Baixa,23.6616385684709,Alta,Baixa_Alta
+3527801,Lupércio,98.95,Alta,0.0,Baixa,Alta_Baixa
+3549003,São Francisco,99.62,Alta,0.0,Baixa,Alta_Baixa
+3540853,Pracinha,96.02,Média,0.0,Baixa,Média_Baixa
+3525409,Jeriquara,96.49,Média,0.0,Baixa,Média_Baixa
+3542305,Redenção da Serra,62.57,Baixa,0.0,Baixa,Baixa_Baixa
+3549607,São José do Barreiro,90.88,Baixa,0.0,Baixa,Baixa_Baixa
+3541802,Queiroz,92.17,Baixa,0.0,Baixa,Baixa_Baixa
+3537008,Pedregulho,93.93,Média,25.4097319273282,Alta,Média_Alta
+3532603,Nhandeara,96.67,Média,0.0,Baixa,Média_Baixa
+3544301,Roseira,92.78,Baixa,27.0392068499324,Alta,Baixa_Alta
+3532504,Neves Paulista,93.99,Média,20.1592581393005,Média,Média_Média
+3544400,Rubiácea,97.82,Alta,0.0,Baixa,Alta_Baixa
+3503000,Aramina,95.93,Média,0.0,Baixa,Média_Baixa
+3532868,Nova Castilho,100.0,Alta,0.0,Baixa,Alta_Baixa
+3531001,Monções,97.09,Alta,0.0,Baixa,Alta_Baixa
+3549300,São João do Pau d'Alho,96.55,Média,0.0,Baixa,Média_Baixa
+3522000,Itaju,96.7,Média,0.0,Baixa,Média_Baixa
+3514304,Dourado,99.05,Alta,12.2159784998778,Média,Alta_Média
+3507159,Bom Sucesso de Itararé,95.75,Média,0.0,Baixa,Média_Baixa
+3545100,Salmourão,98.58,Alta,0.0,Baixa,Alta_Baixa
+3519808,Icém,96.64,Média,50.1945037018447,Alta,Média_Alta
+3543238,Ribeirão dos Índios,100.0,Alta,0.0,Baixa,Alta_Baixa
+3525805,Júlio Mesquita,91.93,Baixa,46.4252553389044,Alta,Baixa_Alta
+3533205,Nova Independência,94.55,Média,0.0,Baixa,Média_Baixa
+3554607,Timburi,97.59,Alta,40.1606425702811,Alta,Alta_Alta
+3500808,Alfredo Marcondes,98.29,Alta,21.9490781387182,Alta,Alta_Alta
+3533809,Óleo,94.7,Média,0.0,Baixa,Média_Baixa
+3518107,Guarantã,94.05,Média,61.2463634971674,Alta,Média_Alta
